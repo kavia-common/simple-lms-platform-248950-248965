@@ -1,0 +1,4 @@
+# SQLite connection methods:
+# Python: sqlite3.connect('myapp.db')
+# Connection string: sqlite:////home/kavia/workspace/code-generation/simple-lms-platform-248950-248965/lms_database/myapp.db
+# File path: /home/kavia/workspace/code-generation/simple-lms-platform-248950-248965/lms_database/myapp.db
